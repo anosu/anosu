@@ -1,1 +1,1 @@
-![stats](https://github-readme-stats.vercel.app/api?username=anosu&show_icons=true)
+![stats](https://github-stats.jitsu.top/api?username=anosu&show_icons=true)
